@@ -1,0 +1,9 @@
+__pycache__/*
+chumpy/build/*
+chumpy/__pycache__/*
+opendr/__pycache__/*
+opendr/contexts/__pycache__/*
+opendr/build/*
+opendr/dist/*
+opendr/opendr.egg-info/*
+*.pkl
